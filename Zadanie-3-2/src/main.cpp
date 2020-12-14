@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include <SPI.h>
-
 #define SPI_CS_PIN 10
 
 typedef int32_t BMP280_S32_t;
