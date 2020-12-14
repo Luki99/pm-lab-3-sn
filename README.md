@@ -13,4 +13,8 @@ Numer albumu: 72528
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+Zadanie 3.2.2.
+Progrma można dodać po przez dodanie pętli która zeruje liczbę naciśnięć lub redukuje ją do danej wielkości po osiągnięciu maksymalnej ilości naciśnięć
+
+Zadanie 3.2.3.
+
